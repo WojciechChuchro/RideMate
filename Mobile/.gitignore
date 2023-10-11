@@ -1,0 +1,46 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+
+# Gradle build directory
+build/
+
+# Ignore Gradle project-specific cache directory
+.gradle/
+
+# Ignore Gradle wrapper binary
+gradlew
+gradlew.bat
+
+# macOS-specific
+.DS_Store
+
+# Windows-specific
+Thumbs.db
+
+# IntelliJ IDEA specific
+*.iml
+.idea/
+out/
+
+# Kotlin/Native
+*.klib
+*.knm
+*.kni
+konan_libraries/
+
+# Other
+*.log
